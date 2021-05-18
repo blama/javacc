@@ -161,7 +161,8 @@ All JavaCC releases are available via [GitHub](https://github.com/javacc/javacc/
 
 For all previous releases, please see [stable releases](downloads.md).
 
-The GitHub  8.0 branch contains the next generation of JavaCC that splits the frontend -- the JavaCC parser -- from the backends -- the code generator targeted for Java, C++ &and C# --. Status of JavaCC is experimental and not production ready.
+The GitHub 8.0 branch contains the next generation of JavaCC that splits the frontend (the JavaCC parser) from the backends (the code generators targeted for Java, C++ and C#).
+The status of JavaCC 8.0 is experimental and not production ready.
 
 #### <a name="installation"></a>Installation
 
